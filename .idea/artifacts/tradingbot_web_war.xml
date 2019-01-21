@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="tradingbot-web:war">
+    <output-path>$PROJECT_DIR$/java/tradingbot-web/target</output-path>
+    <root id="archive" name="tradingbot.war">
+      <element id="artifact" artifact-name="tradingbot-web:war exploded" />
+    </root>
+  </artifact>
+</component>

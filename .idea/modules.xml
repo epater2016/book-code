@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/java/oanda-historic-transactions/oanda-historic-transactions.iml" filepath="$PROJECT_DIR$/java/oanda-historic-transactions/oanda-historic-transactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/oanda-restapi/oanda-restapi.iml" filepath="$PROJECT_DIR$/java/oanda-restapi/oanda-restapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/tradingbot-app/tradingbot-app.iml" filepath="$PROJECT_DIR$/java/tradingbot-app/tradingbot-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/tradingbot-core/tradingbot-core.iml" filepath="$PROJECT_DIR$/java/tradingbot-core/tradingbot-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/tradingbot-demo-programs/tradingbot-demo-programs.iml" filepath="$PROJECT_DIR$/java/tradingbot-demo-programs/tradingbot-demo-programs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/tradingbot-prediction-api/tradingbot-prediction-api.iml" filepath="$PROJECT_DIR$/java/tradingbot-prediction-api/tradingbot-prediction-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java/tradingbot-web/tradingbot-web.iml" filepath="$PROJECT_DIR$/java/tradingbot-web/tradingbot-web.iml" />
+    </modules>
+  </component>
+</project>
