@@ -106,7 +106,12 @@
 			<version>${junit.version}</version>
 			<scope>test</scope>
 		</dependency>
-	</dependencies>
+        <dependency>
+            <groupId>com.precioustech.fxtrading</groupId>
+            <artifactId>tradingbot-app</artifactId>
+            <version>1.0</version>
+        </dependency>
+    </dependencies>
 	<build>
 		<plugins>
 			<plugin>
